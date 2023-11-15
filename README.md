@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maharudra Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 👨‍💻 All of my projects are available at (https://github.com/maharudrayadav Smart-Attendance-System-Using-Face-Recognition-2023.git)
+- 👨‍💻 All of my projects are available at https://github.com/maharudrayadav?tab=repositories
 
 - 📫 How to reach me **maharudrayadav2001.com**
 
