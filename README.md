@@ -16,4 +16,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=maharudrayadav&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+![Profile views counter](https://komarev.com/ghpvc/?username=maharudrayadav&&style=flat-square)
+
 ---
